@@ -257,7 +257,7 @@ export default function Projects() {
 
       </div>
 
-      {/* <div className="">
+      <div className="">
         <iframe
           className="animate m-5 mt-10 rounded-2xl mx-auto"
           id="proj"
@@ -270,11 +270,11 @@ export default function Projects() {
           onClick={chng_link}
           className="bg-violet-800 p-5 text-3xl rounded-3xl flex my-10 mx-auto link1"
         >
-          {!nav ? "Next ➡️" : "Back ⬅️"}
+          {/* {!nav ? "Next ➡️" : "Back ⬅️"} */}
           Next ➡️
         </button>
-        {nav ? <Expire delay="5000">The next project may take a few seconds to load. My sincere apologies.</Expire> : <></>}
-      </div> */}
+        {/* {nav ? <Expire delay="5000">The next project may take a few seconds to load. My sincere apologies.</Expire> : <></>} */}
+      </div>
 
     </div>
   );

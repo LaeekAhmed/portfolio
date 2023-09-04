@@ -1,6 +1,6 @@
 //rfc -> normal func, rafce -> arrow func
 import React, { useState } from "react";
-import { FaBars, FaTimes, FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaBars, FaTimes, FaGithub, FaLinkedin, FaFilePdf } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { Link } from "react-scroll";
 
@@ -13,7 +13,7 @@ export default function Navbar() {
 
   return (
     <div className="navbar fixed w-full lg:h-[60px] h-[40px] flex justify-between items-center px-4 text-white">
-      <a href="/"><div className="las text-4xl">🌐LAS</div></a>
+      <a href="https://laeekahmed.github.io/Portfolio-React/"><div className="las text-4xl">🌐LAS</div></a>
 
       {/*menu*/}
       <div>
@@ -38,11 +38,11 @@ export default function Navbar() {
             </Link>
           </li>
 
-          <li className="link1">
+          {/* <li className="link1">
             <Link className="navLink" to="skills" smooth={true} duration={500}>
               Skills
             </Link>
-          </li>
+          </li> */}
 
           <li className="link1">
             <Link className="navLink" to="About" smooth={true} duration={500}>
@@ -84,23 +84,42 @@ export default function Navbar() {
           <Link
             className="navLink"
             onClick={handleClick}
-            to="projects"
+            to="experience"
             smooth={true}
             duration={500}
           >
-            Projects
+            experience
           </Link>
         </li>
+
         <li className="p-6 text-4xl link1">
-          <Link className="navLink" onClick={handleClick} to="skills" smooth={true} duration={500}>
-            Skills
+          <Link className="navLink" onClick={handleClick} to="projects" smooth={true} duration={500}>
+            projects
           </Link>
         </li>
+
+        <li className="p-6 text-4xl link1">
+          <Link className="navLink" onClick={handleClick} to="about" smooth={true} duration={500}>
+            about
+          </Link>
+        </li>
+
       </ul>
 
       {/*Social icons*/}
       <div>
         <ul className="socials hidden md:flex text-3xl">
+
+        <li>
+            <a
+              href="https://drive.google.com/file/d/1azWwC6FL7AeC50tP6j3jI9Y6UUrmFKMM/view?usp=sharing"
+              target="_blank"
+              className="opacity-70 hover:opacity-100"
+            >
+              <FaFilePdf/>
+            </a>
+          </li>
+
           <li>
             <a
               href="https://github.com/LaeekAhmed"
