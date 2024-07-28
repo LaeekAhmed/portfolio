@@ -1,6 +1,6 @@
 ## <ins><a href="https://laeekahmed.github.io/Portfolio-React/" target="blank">Personal-Portfolio</a></ins>  
-- Built using React-Js.  
-- Exhibits all technologies I’ve worked with and projects I’ve worked on.  
+- Built using React, hosted on gh pages
+- Exhibits all technologies I’ve worked with and projects I’ve worked on
 
 ### Getting Started with Create React App
 
