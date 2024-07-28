@@ -1,4 +1,4 @@
-## <ins><a href="https://laeekahmed.github.io/Portfolio-React/" target="blank">Personal-Portfolio</a></ins>  
+## Personal Portfolio
 - Built using React, hosted on gh pages
 - Exhibits all technologies I’ve worked with and projects I’ve worked on
 
