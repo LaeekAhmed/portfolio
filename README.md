@@ -1,12 +1,11 @@
-## Personal Portfolio
-- Built using React, hosted on gh pages
-- Exhibits all technologies I’ve worked with and projects I’ve worked on
+# Personal Portfolio
 
-### Available Scripts
+### Quick Start
 
-In the project directory, you can run:
-
-#### `pnpm start`
+```
+npm install
+npm start
+```
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -14,9 +13,15 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `deploy`
+### Deployment
 
 ```
-pnpm run deploy
+npm run deploy
+```
+
+OR
+
+```
+npm run deploy -- -m "custom message"
 ```
 to understand the entire process [read this](https://github.com/gitname/react-gh-pages?tab=readme-ov-file#deploying-a-react-app-to-github-pages)
