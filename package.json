@@ -1,7 +1,7 @@
 {
-  "name": "portfolio2",
+  "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://LaeekAhmed.github.io/",
+  "homepage": "https://LaeekAhmed.github.io/portfolio",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
