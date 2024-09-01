@@ -1,0 +1,9 @@
+todo.md
+src/Sections/skills.jsx
+src/assets/*
+
+# do not ignore these images
+!src/assets/ibm.png
+!src/assets/gdsc.png
+!src/assets/mcmaster.png
+

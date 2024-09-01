@@ -1,22 +1,24 @@
+import React from "react";
 import Navbar from "./Sections/Navbar";
 import Home from "./Sections/home";
-import Skills from "./Sections/skills";
 import About from "./Sections/About";
-import MyPage from "./Sections/flowbite_test";
 import Projects from "./Sections/projects";
 import Experience from "./Sections/Experience";
 
 function App() {
   return (
     <div>
-      {/* the funcs called below basically return a set of nested div's.
-      so basically it is nothing but HTML */}
       <Navbar />
       <Home />
-      <Experience/>
+      <Experience />
       <Projects />
-      {/* <Skills /> */}
-      <About/>
+      <About />
+
+      <footer className="bg-gray-800 text-gray-400 py-8 text-center">
+        <p className="text-sm md:text-base">
+          Thanks for reading all the way till here! ❤️
+        </p>
+      </footer>
     </div>
   );
 }

@@ -1,7 +1,7 @@
 {
   "name": "portfolio2",
   "version": "0.1.0",
-  "homepage": "https://LaeekAhmed.github.io/Portfolio-React",
+  "homepage": "https://LaeekAhmed.github.io/",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
@@ -16,7 +16,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "pnpm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",

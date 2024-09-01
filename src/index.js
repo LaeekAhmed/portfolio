@@ -4,11 +4,9 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-// ⚠️ div id="root" being accessed from index.html
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    {/* ⚠️ func App imported and used from app.js*/}
     <App />
   </React.StrictMode>
 );
