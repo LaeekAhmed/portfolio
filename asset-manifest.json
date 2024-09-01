@@ -1,40 +1,17 @@
 {
   "files": {
-    "main.css": "/Portfolio-React/static/css/main.4ee4647f.css",
-    "main.js": "/Portfolio-React/static/js/main.0b601ece.js",
-    "static/js/787.1297335f.chunk.js": "/Portfolio-React/static/js/787.1297335f.chunk.js",
-    "static/media/portfolio.png": "/Portfolio-React/static/media/portfolio.35d5011122f80328b9cf.png",
-    "static/media/violet2.png": "/Portfolio-React/static/media/violet2.c5af71cc0872296ee975.png",
-    "static/media/violet.jpg": "/Portfolio-React/static/media/violet.7f26d04eb0e26dbceba1.jpg",
-    "static/media/Notes.png": "/Portfolio-React/static/media/Notes.090b95baa3b432df706c.png",
-    "static/media/vector.png": "/Portfolio-React/static/media/vector.3110d18bdee7b9993882.png",
-    "static/media/bash.png": "/Portfolio-React/static/media/bash.c8dfb1563816a3e8781a.png",
-    "static/media/sqlite.png": "/Portfolio-React/static/media/sqlite.f05a612d02f52a49bcfe.png",
-    "static/media/terraform.png": "/Portfolio-React/static/media/terraform.834d96ec96c46f44e9d2.png",
-    "static/media/hospital.jpg": "/Portfolio-React/static/media/hospital.145b34f716831cc61a3c.jpg",
-    "static/media/docker.png": "/Portfolio-React/static/media/docker.c1404d2c9eb77e0a00a3.png",
-    "static/media/gcp.png": "/Portfolio-React/static/media/gcp.24257c7d398ab8783468.png",
-    "static/media/react.png": "/Portfolio-React/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/node.png": "/Portfolio-React/static/media/node.952a9ea986dcfa5229ad.png",
-    "static/media/mongo.png": "/Portfolio-React/static/media/mongo.2a1528ddc31d4ce8518d.png",
-    "static/media/Airflow.png": "/Portfolio-React/static/media/Airflow.a36ab2e569ac73f5ef50.png",
-    "static/media/elm.png": "/Portfolio-React/static/media/elm.b236f7e3b517d20e343a.png",
-    "static/media/github.png": "/Portfolio-React/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/spark.png": "/Portfolio-React/static/media/spark.ee5575165350589b66c9.png",
-    "static/media/html.png": "/Portfolio-React/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/postgres.png": "/Portfolio-React/static/media/postgres.0f01e72cd7838bd183a5.png",
-    "static/media/python.png": "/Portfolio-React/static/media/python.3ca975d4a41d26749e54.png",
-    "static/media/css.png": "/Portfolio-React/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/c.png": "/Portfolio-React/static/media/c.9de9df950e692f5576c1.png",
-    "static/media/haskell.png": "/Portfolio-React/static/media/haskell.310a9d5115449354f807.png",
-    "static/media/javascript.png": "/Portfolio-React/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/Portfolio-React/index.html",
-    "main.4ee4647f.css.map": "/Portfolio-React/static/css/main.4ee4647f.css.map",
-    "main.0b601ece.js.map": "/Portfolio-React/static/js/main.0b601ece.js.map",
-    "787.1297335f.chunk.js.map": "/Portfolio-React/static/js/787.1297335f.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.fcb958b3.css",
+    "main.js": "/portfolio/static/js/main.0985b943.js",
+    "static/js/367.5b09e02b.chunk.js": "/portfolio/static/js/367.5b09e02b.chunk.js",
+    "static/media/mcmaster.png": "/portfolio/static/media/mcmaster.311878a617f7393bb0e0.png",
+    "static/media/gdsc.png": "/portfolio/static/media/gdsc.200d6e16b2ac2f3cc049.png",
+    "index.html": "/portfolio/index.html",
+    "main.fcb958b3.css.map": "/portfolio/static/css/main.fcb958b3.css.map",
+    "main.0985b943.js.map": "/portfolio/static/js/main.0985b943.js.map",
+    "367.5b09e02b.chunk.js.map": "/portfolio/static/js/367.5b09e02b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ee4647f.css",
-    "static/js/main.0b601ece.js"
+    "static/css/main.fcb958b3.css",
+    "static/js/main.0985b943.js"
   ]
 }
