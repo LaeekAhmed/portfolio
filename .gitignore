@@ -7,3 +7,5 @@ src/assets/*
 !src/assets/gdsc.png
 !src/assets/mcmaster.png
 
+build/
+node_modules/
