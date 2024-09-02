@@ -56,7 +56,7 @@ export default function Experience() {
         `About the position: ${formData.description}\n\n` +
         `I'd love to connect and explore how your skills align with this role. Looking forward to hearing from you!`
     );
-    window.location.href = `mailto:your.email@example.com?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:laeek385@gmail.com?subject=${subject}&body=${body}`;
     setShowForm(false);
     setFormData({title: "", description: ""});
   };
