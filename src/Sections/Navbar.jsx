@@ -26,12 +26,12 @@ export default function Navbar() {
   ];
 
   const socials = [
-    {
-      id: 1,
-      icon: <FaFilePdf />,
-      href: "https://drive.google.com/file/d/1EswP6VuZBb0qoeVDOvttrYtguTgmBB92/view?usp=sharing",
-      label: "Resume",
-    },
+    // {
+    //   id: 1,
+    //   icon: <FaFilePdf />,
+    //   href: "https://drive.google.com/file/d/1EswP6VuZBb0qoeVDOvttrYtguTgmBB92/view?usp=sharing",
+    //   label: "Resume",
+    // },
     {
       id: 2,
       icon: <FaGithub />,
