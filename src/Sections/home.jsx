@@ -14,7 +14,8 @@ const Home = () => {
           Laeek Ahmed Shaikh
         </h1>
         <h2 className="mobile-text-xl sm:text-2xl md:text-3xl text-gray-200">
-          Undergrad CS Student, Aspiring Software & Data Engineer 🧑‍💻
+          Undergrad CS Student, Aspiring Software Developer &
+          Cloud/Infrastructure Engineer 🧑‍💻
         </h2>
       </div>
     </div>
