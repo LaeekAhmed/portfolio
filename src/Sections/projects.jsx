@@ -11,7 +11,7 @@ export default function Projects() {
         "https://github.com/LaeekAhmed/TTC-delay-analytics?tab=readme-ov-file#ttc-delay-analytics",
     },
     {
-      title: "Notespot 📚",
+      title: "File sharing platform 📂",
       description:
         "An over engineered full-stack file sharing platform and an API server, designed for users to upload, download, and publicly share files of various formats (PDFs, docs, images and more). Built with a focus on learning scalable cloud infrastructure and modern backend development practices",
       liveLink: "https://notespot.ca/",
